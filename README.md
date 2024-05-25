@@ -93,3 +93,8 @@ Use python 3.8+ with following packages:
 - or without any option: you'll be asked to pick a shot file
 
 Sample shots are available in the example directory.
+
+## Running via Poetry
+```
+poetry run jupyter notebook
+```
